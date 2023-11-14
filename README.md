@@ -7,3 +7,6 @@ I used Matplotlib and Seaborn in Python to create informative data visualization
 <img width="1435" alt="Screenshot 2023-11-14 at 1 01 46 PM" src="https://github.com/divykantsharma/Matplotlib-Seaborn/assets/89973756/eb5d7627-d0ee-4f29-98c9-46691acddfb6">
 <img width="1440" alt="Screenshot 2023-11-14 at 1 01 57 PM" src="https://github.com/divykantsharma/Matplotlib-Seaborn/assets/89973756/d09a3b6c-a667-44c7-b3de-567ecc910adf">
 
+## Seaborn
+https://github.com/divykantsharma/Matplotlib-Seaborn/assets/89973756/e5e8fa7b-4348-4541-ad74-69c8a2a9cfaa
+
